@@ -1,0 +1,62 @@
+html,body{
+	width :100%;
+	height: 100%;
+
+}
+
+h1{
+	color: #7FB5FF;
+	
+
+}
+
+.div1{
+	background-image: url(http://cdn.home-designing.com/wp-content/uploads/2017/06/double-home-office.jpg);
+  background-size: cover;
+  height: 2000px;
+  width:  2000px;
+}
+.transparent-box{
+	background-color: #7FB5FF;
+	
+	height: 400px;
+	width:  200px;
+}
+.text-class{
+	font-weight: strong;
+}
+
+.background-text{
+	background-color: black;
+	width:  600px;
+	opacity: 0.5;
+}
+img{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top:  10px;
+	transition:  height 1s,width 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.second{
+	background-color: #121212;
+	
+
+}
+
+p{
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	margin-right: 40px;
+}
+.btn{
+	width: 100px;
+	border-radius: 100px;
+	margin-left: 550px;
+}
+#second-half{
+	
+}
